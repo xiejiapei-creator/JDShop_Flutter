@@ -5,8 +5,6 @@ Flutter完整项目有2GB，GitHub好像限制了大小只能上传100MB...我�
 
 ![分类.png](https://upload-images.jianshu.io/upload_images/9570900-33530db1d40dd9e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
- ![地址列表.png](file:///Users/xiejiapei/Movies/项目/Flutter/模仿/下单.png)
-
  ![地址列表.png](https://upload-images.jianshu.io/upload_images/9570900-6ab8ff4e22581190.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![属性.png](https://upload-images.jianshu.io/upload_images/9570900-1e9e0f338780aa35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
