@@ -1,14 +1,11 @@
 Flutter完整项目有2GB，GitHub好像限制了大小只能上传100MB...我上传了最关键的lib文件夹和导入外部框架的文件，只需要新建一个项目，对应替换后安装框架即可
 运行效果图：
-![![列表.png](https://upload-images.jianshu.io/upload_images/9570900-e3fdf46374bf5507.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+[![列表.png](https://upload-images.jianshu.io/upload_images/9570900-e3fdf46374bf5507.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ](https://upload-images.jianshu.io/upload_images/9570900-c0f008dd325050a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![分类.png](https://upload-images.jianshu.io/upload_images/9570900-33530db1d40dd9e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
-
-![列表.png](https://upload-images.jianshu.io/upload_images/9570900-cdb2dc635f6e60da.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+ ![地址列表.png](file:///Users/xiejiapei/Movies/项目/Flutter/模仿/下单.png)
 
  ![地址列表.png](https://upload-images.jianshu.io/upload_images/9570900-6ab8ff4e22581190.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
