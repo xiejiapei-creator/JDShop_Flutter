@@ -12,10 +12,16 @@ Day3    封装适配库以及实现左右滑动ListView
  2、  ListView嵌套ListView实现左右滑动列表
   
 Day4    首页商品列表布局 
-1、Flutter仿照京东商城项目首页布局 2、Flutter 竖向ListView嵌套横向ListView，以及ListView嵌套GridView 3、Flutter 不同终端屏幕适配问题
+1、Flutter仿照京东商城项目首页布局
+2、Flutter 竖向ListView嵌套横向ListView，以及ListView嵌套GridView
+3、Flutter 不同终端屏幕适配问题
   
 Day5  Flutter JSON和序列化反序列化、创建模型类转换Json数据、轮播图数据渲染 
-1、Flutter JSON序列化反序列化 2、Flutter JSON字符串和Map类型的转换 dart:convert手动序列化JSON 3、Flutter 在模型类中序列化JSON 4、使用json_to_dart自动生成模型类 5、请求轮播图接口渲染轮播图数据
+1、Flutter JSON序列化反序列化
+2、Flutter JSON字符串和Map类型的转换 dart:convert手动序列化JSON
+3、Flutter 在模型类中序列化JSON
+4、使用json_to_dart自动生成模型类
+5、请求轮播图接口渲染轮播图数据
  
 Day6 Flutter创建商品数据模型 、请求Api接口渲染热门商品 推荐商品 
 1、首页推荐商品动态数据渲染 2、首页热门商品动态数据渲染 3、json_to_dart自动生成模型类
