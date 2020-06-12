@@ -1,3 +1,33 @@
+Flutter完整项目有2GB，GitHub好像限制了大小只能上传100MB...我上传了最关键的lib文件夹和导入外部框架的文件，只需要新建一个项目，对应替换后安装框架即可
+运行效果图：
+![![列表.png](https://upload-images.jianshu.io/upload_images/9570900-e3fdf46374bf5507.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+](https://upload-images.jianshu.io/upload_images/9570900-c0f008dd325050a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![分类.png](https://upload-images.jianshu.io/upload_images/9570900-33530db1d40dd9e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+![列表.png](https://upload-images.jianshu.io/upload_images/9570900-cdb2dc635f6e60da.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+ ![地址列表.png](https://upload-images.jianshu.io/upload_images/9570900-6ab8ff4e22581190.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![属性.png](https://upload-images.jianshu.io/upload_images/9570900-1e9e0f338780aa35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![新增地址.png](https://upload-images.jianshu.io/upload_images/9570900-c4874d77f198e3cc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![用户中心.png](https://upload-images.jianshu.io/upload_images/9570900-df2d9cf7462523da.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![订单.png](https://upload-images.jianshu.io/upload_images/9570900-6bb37fff5cc79bbc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![详情.png](https://upload-images.jianshu.io/upload_images/9570900-bb5048e5d5dae69b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![购物车.png](https://upload-images.jianshu.io/upload_images/9570900-fd9344104c746ac1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![首页.png](https://upload-images.jianshu.io/upload_images/9570900-3982bf52e5870b38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+以下是我的开发日记：好好学习，天天向上，每天完成一点点，不知不觉就做完了，要是找女朋友也这么简单就好了...
+
 #### Day1   功能分析、底部导航Tab切换以及路由配置、架构搭建 
 1. 功能分析
 2. 架构搭建配 配置底部导航Tab切换
