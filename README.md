@@ -98,30 +98,24 @@
 1. 底部弹出筛选属性
 2. GestureDetector事件
 3. 底部弹出筛选属性布局
- 
 #### Day21    商品详情 请求接口渲染数据  商品属性数据渲染 
 1. 商品详情 页面布局    
 2. 商品详情Api接口    
 3. Flutter WebView组件inappbrowser的使用     
 4. StatefulBuilder更新Flutter showDialog 、showModalBottomSheet中的状态     
 5. json_to_dart自动生成模型类
- 
 #### Day22    inappbrowser 加载商品详情、保持页面状态、以及实现属性筛选业务逻辑
- 
 #### Day23  Flutter官方推荐的状态管理库provider的使用 
 1. Flutter状态管理介绍
 2. 关于flutter provider库和flutter provide库的区别
 3. flutter provider 的使用
- 
 #### Day24 Flutter官方推荐的状态管理库provider的深入使用、初始化修改状态、父子组件同步状态  
 #### Day25   购物车页面布局 
- 
 #### Day26    购物车之 event_bus事件广播 事件监听 
 1. 点击底部加入购物车弹出属性筛选
 2. event_bus 介绍    
 3. event_bus 使用 事件广播 事件监听    
 4. event_bus 取消事件监听
- 
 #### Day27    购物车之 实现数量加减 以及获取加入购物车的数据 
 #### Day28   购物车之 定义service加入购物车、更新provider、显示购物车数据 
 #### Day29   购物车之  购物车数量加减 全选 反选 
@@ -135,13 +129,11 @@
 #### Day37    结算页面布局  
 #### Day38    渲染结算页面商品数据 
 #### Day39    收货地址列表、增加 修改收货地址布局、弹出省市区选择器 
- 
 #### Day40   签名验证原理、签名验证算法 
 1. Flutter Md5加密
 2. 为什么要签名验证  
 3. 签名验证实现原理
 4. 签名验证算法
- 
 #### Day41  Flutter 仿京东商城项目签名验证 增加收货地址、显示收货地址 事件广播 
 #### Day42     修改默认收货地址 显示默认收货地址 
 #### Day43     修改收货地址 删除收货地址 
