@@ -1,7 +1,16 @@
 完整项目有2GB，GitHub好像限制了大小只能上传100MB...所以我只上传了最关键的lib文件夹以及导入外部框架的文件，你使用的时候只需要新建一个项目，将这两个文件对应替换后，再在终端安装框架，即可运行。
 
 ### 项目的开发指南
-- [Flutter：仿京东商城项目的完整开发指南（一）](https://www.jianshu.com/p/1bde7692873a)
+- [Flutter：入门](https://www.jianshu.com/p/fb74b7beec43)
+
+- [Flutter：进阶](https://www.jianshu.com/p/1d0a51c71597)
+
+- [Flutter：仿京东商城APP的完整开发指南（一）](https://www.jianshu.com/p/b594f3c83aee)
+
+- [Flutter：仿京东商城APP的完整开发指南（二）](https://www.jianshu.com/p/86df79b2e74e)
+
+- [Flutter：仿京东商城APP的完整开发指南（三）](https://www.jianshu.com/p/d729be843578)
+
 
 
 ### 运行效果图
