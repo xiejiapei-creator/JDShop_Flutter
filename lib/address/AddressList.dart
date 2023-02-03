@@ -82,13 +82,13 @@ class _AddressListPageState extends State<AddressListPage> {
             title: Text("提示信息!"),
             content:Text("您确定要删除吗?") ,
             actions: <Widget>[
-              FlatButton(
+              TextButton(
                 child: Text("取消"),
                 onPressed: (){
                   Navigator.pop(context);
                 },
               ),
-              FlatButton(
+              TextButton(
                 child: Text("确定"),
                 onPressed: () async{
                   //执行删除操作

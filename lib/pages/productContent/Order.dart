@@ -93,10 +93,14 @@ class _OrderPageState extends State<OrderPage> {
                           SizedBox(height: 10),
                           ListTile(
                             leading: Text("合计：￥${value.allPrice}"),
-                            trailing: FlatButton(
+                            trailing: TextButton(
                               child: Text("申请售后"),
                               onPressed: () {},
-                              color: Colors.grey[100],
+                              style: ButtonStyle(
+                                backgroundColor: MaterialStateProperty.resolveWith((states) {
+                                  return Colors.grey[100];
+                                }),
+                              ),
                             ),
                           ),
                         ],

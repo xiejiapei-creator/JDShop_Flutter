@@ -141,16 +141,20 @@ class _CartPageState extends State<CartPage> {
                   // 结算
                   this._isEdit == false ? Align(
                     alignment: Alignment.centerRight,
-                    child: RaisedButton(
+                    child: ElevatedButton(
                       child: Text("结算",style: TextStyle(color: Colors.white)),
-                      color: Colors.red,
-                      onPressed: doCheckOut
+                      onPressed: doCheckOut,
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.red,
+                      ),
                     ),
                   ) : Align(
                     alignment: Alignment.centerRight,
-                    child: RaisedButton(
+                    child: ElevatedButton(
                       child: Text("删除",style: TextStyle(color: Colors.white)),
-                      color: Colors.red,
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.red,
+                      ),
                       onPressed: () {
                         // 删除数据
                         cartProvider.removeItem();

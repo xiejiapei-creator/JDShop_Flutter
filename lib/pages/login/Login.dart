@@ -70,7 +70,7 @@ class _LoginPageState extends State<LoginPage> {
           },
         ),
         actions: <Widget>[
-          FlatButton(
+          TextButton(
             child: Text("客服"),
             onPressed: () {
 

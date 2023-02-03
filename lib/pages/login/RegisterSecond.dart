@@ -117,10 +117,10 @@ class _RegisterSecondPageState extends State<RegisterSecondPage> {
                 Positioned(
                   right: 0,
                   top: 0,
-                  child: this._sendCodeBtn ? RaisedButton(
+                  child: this._sendCodeBtn ? ElevatedButton(
                     child: Text('重新发送'),
                     onPressed: sendCode
-                  ) : RaisedButton(
+                  ) : ElevatedButton(
                     child: Text('${this._seconds}秒后重发'),
                     onPressed: (){
 

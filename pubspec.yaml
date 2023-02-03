@@ -30,8 +30,8 @@ dependencies:
   provider: ^4.0.5
   flutter_inappwebview: ^2.1.0+1
   event_bus: ^1.1.1
-  fluttertoast: ^4.0.1
-  city_pickers: ^0.1.30
+  fluttertoast: ^8.1.2
+  city_pickers: ^1.2.0
   crypto: ^2.1.3
 
 dev_dependencies:

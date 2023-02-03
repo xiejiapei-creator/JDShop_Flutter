@@ -209,10 +209,12 @@ class _CheckOutPageState extends State<CheckOutPage> {
                   // 立即下单
                   Align(
                     alignment: Alignment.centerRight,
-                    child: RaisedButton(
+                    child: ElevatedButton(
                       child:
                       Text('立即下单', style: TextStyle(color: Colors.white)),
-                      color: Colors.red,
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.red,
+                      ),
                       onPressed: () async {
                         // 有默认收获地址才可以下单
                         if (this._addressList.length > 0) {
